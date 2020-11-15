@@ -1,0 +1,31 @@
+	*{
+           margin: 0; padding: 0;
+       }
+       
+	table {
+   	 background: deeppink;
+    padding: 9% 29% 9% 7%;
+    margin: auto;
+}
+       .form-table{
+        background-image: url(picture.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: table;
+    width: 100%;
+       }input {
+    padding: 8px 13px;
+    width: 142%;
+    background: transparent;
+    border: 1px solid yellow;
+    border-radius: 5px;
+}
+form.custom-form {
+    width: 50%;
+    padding: 20px 78px;
+    display: table-cell;
+    vertical-align: middle;
+}
+    </style>
